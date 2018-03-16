@@ -1,6 +1,4 @@
-# ECE-180-Team-5
-
-Contains the code and data files of the project Visualization and analysis of IMDb dataset, undertaken by Team 5, for the course ECE 180 (Winter 2018) .   
+Contains the code and data files of the project Visualization and analysis of IMDb dataset
 
 ### Data .   
 review.csv.zip : Contains the review data we scraped from IMDB website .   
